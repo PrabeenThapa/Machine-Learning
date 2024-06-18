@@ -6,7 +6,7 @@ This repository is a collection of materials and code created by [@peakie108](ht
 
 ## Acknowledgments
 
-Special thanks to [campusx](https://www.youtube.com/playlist?list=PLKnIA16_RmvbR85fgbfVRKOiMokUKVupy) for providing an excellent tutorial on Pandas.
+Special thanks to [Amit Thinks](https://youtu.be/57POFzZ7f60?si=AELs1hFxVmi0hLeB) for providing an excellent tutorial on Pandas.
 
 ## Introduction
 
