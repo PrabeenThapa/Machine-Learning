@@ -1,0 +1,3 @@
+[submodule "Pandas/PANDAS"]
+	path = Pandas/PANDAS
+	url = https://github.com/peakie108/PANDAS.git
